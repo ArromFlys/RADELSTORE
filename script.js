@@ -27,9 +27,9 @@
       { name: 'Legend II', tier: 'Legend', division: 'II', maxStars: 5, price: 5000, color: '#f87171', glow: '#ef4444' },
       { name: 'Legend I', tier: 'Legend', division: 'I', maxStars: 5, price: 5000, color: '#f87171', glow: '#ef4444' },
       { name: 'Mythic', tier: 'Mythic', division: '', maxStars: 25, price: 10000, color: '#22d3ee', glow: '#06b6d4' },
-      { name: 'Mythical Honor', tier: 'Mythical Honor', division: '', maxStars: 25-49, price: 13000, color: '#22d3ee', glow: '#06b6d4' },
-      { name: 'Mythical Glory', tier: 'Mythical Glory', division: '', maxStars: 50-99, price: 17000, color: '#facc15', glow: '#eab308' },
-      { name: 'Mythical Immortal', tier: 'Mythical Immortal', division: '', maxStars: 100-999, price: 22000, color: '#facc15', glow: '#eab308' },
+      { name: 'Mythical Honor', tier: 'Mythical Honor', division: '', maxStars: 25, price: 13000, color: '#22d3ee', glow: '#06b6d4' },
+      { name: 'Mythical Glory', tier: 'Mythical Glory', division: '', maxStars: 50, price: 17000, color: '#facc15', glow: '#eab308' },
+      { name: 'Mythical Immortal', tier: 'Mythical Immortal', division: '', maxStars: 100, price: 22000, color: '#facc15', glow: '#eab308' },
     ];
 
     function rankEmblem(tier) {
